@@ -42,11 +42,12 @@ Twenty participants with normal or corrected-to-normal vision will complete the 
 
 ### Materials
 
-- **Tachistoscope**: A device that presents visual stimuli for precisely controlled durations
+- **Tachistoscope**: A shiny-app that presents visual stimuli for precisely controlled durations
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
   - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
   - This range includes squares both smaller and larger than the reference
+  - We randomly generated the size of the comparison squares from a uniform distribution
 
 ### Procedure
 
