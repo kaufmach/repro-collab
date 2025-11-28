@@ -72,7 +72,7 @@ Twenty participants with normal or corrected-to-normal vision will complete the 
 
 ### Primary Analysis
 
-For each participant individually:
+Group comparison including variability measures, indicating significant differences if present:
 
 1. Calculate median discrimination times for each stimulus difference
 2. Plot median discrimination time (y-axis) against stimulus difference in sq.mm (x-axis)
